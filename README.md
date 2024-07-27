@@ -15,6 +15,7 @@
 ![js](https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)   
 ![js](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![js](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![js](https://img.shields.io/badge/github-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![js](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
